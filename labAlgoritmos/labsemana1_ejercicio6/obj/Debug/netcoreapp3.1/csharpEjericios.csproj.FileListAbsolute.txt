@@ -1,0 +1,14 @@
+C:\Users\Patricio\Documents\VSC\labAlgoritmos\csharpEjericios\obj\Debug\netcoreapp3.1\csharpEjericios.csproj.AssemblyReference.cache
+C:\Users\Patricio\Documents\VSC\labAlgoritmos\csharpEjericios\obj\Debug\netcoreapp3.1\csharpEjericios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricio\Documents\VSC\labAlgoritmos\csharpEjericios\obj\Debug\netcoreapp3.1\csharpEjericios.AssemblyInfoInputs.cache
+C:\Users\Patricio\Documents\VSC\labAlgoritmos\csharpEjericios\obj\Debug\netcoreapp3.1\csharpEjericios.AssemblyInfo.cs
+C:\Users\Patricio\Documents\VSC\labAlgoritmos\csharpEjericios\obj\Debug\netcoreapp3.1\csharpEjericios.csproj.CoreCompileInputs.cache
+C:\Users\Patricio\Documents\VSC\labAlgoritmos\csharpEjericios\bin\Debug\netcoreapp3.1\csharpEjericios.exe
+C:\Users\Patricio\Documents\VSC\labAlgoritmos\csharpEjericios\bin\Debug\netcoreapp3.1\csharpEjericios.deps.json
+C:\Users\Patricio\Documents\VSC\labAlgoritmos\csharpEjericios\bin\Debug\netcoreapp3.1\csharpEjericios.runtimeconfig.json
+C:\Users\Patricio\Documents\VSC\labAlgoritmos\csharpEjericios\bin\Debug\netcoreapp3.1\csharpEjericios.runtimeconfig.dev.json
+C:\Users\Patricio\Documents\VSC\labAlgoritmos\csharpEjericios\bin\Debug\netcoreapp3.1\csharpEjericios.dll
+C:\Users\Patricio\Documents\VSC\labAlgoritmos\csharpEjericios\bin\Debug\netcoreapp3.1\csharpEjericios.pdb
+C:\Users\Patricio\Documents\VSC\labAlgoritmos\csharpEjericios\obj\Debug\netcoreapp3.1\csharpEjericios.dll
+C:\Users\Patricio\Documents\VSC\labAlgoritmos\csharpEjericios\obj\Debug\netcoreapp3.1\csharpEjericios.pdb
+C:\Users\Patricio\Documents\VSC\labAlgoritmos\csharpEjericios\obj\Debug\netcoreapp3.1\csharpEjericios.genruntimeconfig.cache
